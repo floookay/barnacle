@@ -25,6 +25,9 @@ pcb/*/*backups/*
 # Exported BOM files
 *.xml
 
+# FreeCAD backup files
+*.FCBak
+
 # Editor
 *.code-workspace
 
