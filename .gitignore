@@ -31,5 +31,5 @@ pcb/*/*backups/*
 # Editor
 *.code-workspace
 
-# Prototyping
+# Discarded stuff
 .discard/*
