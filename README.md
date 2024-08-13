@@ -68,6 +68,7 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 
 - [ ] a trackball core pcb
 - [ ] a trackpad core pcb
+- [ ] maybe a THT core pcb with a window (lumberjack style)
 
 ## misc
 
