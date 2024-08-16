@@ -6129,6 +6129,28 @@
 			)
 		)
 	)
+	(global_label "rgb1"
+		(shape input)
+		(at 175.26 210.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05f21ec9-1944-43f4-954a-f162a16372ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.5389 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row3"
 		(shape input)
 		(at 128.27 -3.81 180)
@@ -6142,28 +6164,6 @@
 		(uuid "08901d24-eaa6-4d41-a371-fea14fa36091")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 121.1725 -3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "perkey-rgb"
-		(shape input)
-		(at 128.27 -29.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0a22c200-b119-464e-8d49-78088cd3538c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.5201 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6305,7 +6305,29 @@
 			)
 		)
 	)
-	(global_label "underglow-rgb"
+	(global_label "rgb0"
+		(shape input)
+		(at 162.56 -29.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37b6fb1f-f09b-4b41-9ad9-966803df36dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.2811 -29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rgb0"
 		(shape input)
 		(at 49.53 165.1 180)
 		(fields_autoplaced yes)
@@ -6317,7 +6339,7 @@
 		)
 		(uuid "3810b0db-a8b7-4823-ba66-85c42608c82d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.2727 165.1 0)
+			(at 42.2511 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7031,7 +7053,7 @@
 			)
 		)
 	)
-	(global_label "perkey-rgb"
+	(global_label "rgb1"
 		(shape input)
 		(at 15.24 236.22 180)
 		(fields_autoplaced yes)
@@ -7043,7 +7065,7 @@
 		)
 		(uuid "c6e5d9dc-2e7f-48d8-98ed-645fa99b4855")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 1.4901 236.22 0)
+			(at 7.9611 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7088,28 +7110,6 @@
 		(uuid "d34b4bd6-32fc-4e5a-80bb-6d564e5e7341")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 43.7025 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "underglow-rgb"
-		(shape input)
-		(at 162.56 -29.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d82751a0-0dfb-4fd7-8fb5-2e712d06ee0d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.3027 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10685,6 +10685,73 @@
 			(project "shell"
 				(path "/e189624d-31ed-4827-8b05-62c0c6e8ce19"
 					(reference "UG27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 128.27 -29.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42e1efa8-1f56-4fac-a656-62a96e2b15ef")
+		(property "Reference" "#PWR07"
+			(at 121.92 -29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.46 -29.2101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 -29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 -29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 128.27 -29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c54ccee-09ab-435e-ae39-c5462ec3cf1a")
+		)
+		(instances
+			(project "shell"
+				(path "/e189624d-31ed-4827-8b05-62c0c6e8ce19"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)

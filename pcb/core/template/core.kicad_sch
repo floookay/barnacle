@@ -1664,28 +1664,6 @@
 			)
 		)
 	)
-	(global_label "perkey-rgb"
-		(shape input)
-		(at 217.17 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "842ab2b9-619e-4506-b67f-f513d09474b8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.4201 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col4"
 		(shape input)
 		(at 151.13 71.12 0)
@@ -1708,7 +1686,7 @@
 			)
 		)
 	)
-	(global_label "underglow-rgb"
+	(global_label "rgb"
 		(shape input)
 		(at 125.73 83.82 180)
 		(fields_autoplaced yes)
@@ -1720,7 +1698,7 @@
 		)
 		(uuid "8876a24c-7ca1-47e0-b407-5f84cb119fd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.4727 83.82 0)
+			(at 119.6606 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1774,7 +1752,7 @@
 			)
 		)
 	)
-	(global_label "underglow-rgb"
+	(global_label "rgb"
 		(shape input)
 		(at 45.72 54.61 180)
 		(fields_autoplaced yes)
@@ -1786,7 +1764,7 @@
 		)
 		(uuid "9b957504-3852-43d8-b385-f18497aeada1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.4627 54.61 0)
+			(at 39.6506 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1853,28 +1831,6 @@
 		(uuid "a77fd0bc-50f2-4c4b-90d3-848180bd333a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 210.0725 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "perkey-rgb"
-		(shape input)
-		(at 125.73 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a963e506-f199-4943-a8a6-83629da24e66")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.9801 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2965,6 +2921,73 @@
 			(project ""
 				(path "/8ef1751a-3bdc-4956-a5e1-70d94fb666d4"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 217.17 53.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de2858de-d689-4201-840d-d03d73ce8773")
+		(property "Reference" "#PWR05"
+			(at 210.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 213.36 53.3399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 217.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "001bb961-48f3-4866-9d46-469b7df1a0a6")
+		)
+		(instances
+			(project "core"
+				(path "/8ef1751a-3bdc-4956-a5e1-70d94fb666d4"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
