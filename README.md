@@ -22,6 +22,29 @@ So I've set out to create my own: the barnacle
 
 The main layout is fixed but the cores offer some variety.
 
+## pcb
+
+ba ba ba barnacle (drg) around screw holes (like oldman did on his endgame)
+
+### core pcb
+
+You can use any core pcbs with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
+
+#### basic core
+
+This key offers the following configurations:
+- 9 keys
+- 3 keys and a encoder with a big knob
+- 3 keys and a 0.96" OLED screen
+- 2 small encoders, 1 key and a 0.96" OLED screen
+- a central encoder with the biggest knob
+
+### shell pcb
+
+- fixed layout, so I chose hotswap sockets
+- rgb underglow
+- per key rgb
+
 ## case
 
 - 3mm acrylic bottom
@@ -36,46 +59,30 @@ There are a couple of core pieces
 - large encoder core
 - oled core
 
-## pcb
-
-ba ba ba barnacle (drg) around screw holes (like oldman did on his endgame)
-
-### core pcb
-
-You can use any core pcbs with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
-
-#### 3x3 / large encoder core
-
-This key offers the following configurations:
-- 9 keys
-- 3 keys and a encoder with a large knob
-
-#### oled core
-
-- 3 keys and a large 1.4" OLED display 
-
-### shell pcb
-
-- fixed layout, so I chose hotswap sockets
-- per key rgb
-- rgb underglow
-
 ## bom and assembly
 
 For the bill of materials and assembly instructions see [here](./assembly.md).
 
-## stuff I'd like to add in the future
+## ideas and stuff I'd like to add in the future
 
-- [ ] a trackball core pcb
-- [ ] a trackpad core pcb
-- [ ] maybe a THT core pcb with a window (lumberjack style)
+### pcb
+
+- [ ] *bluetooth core* with a nice!nano and without RGB (maybe with a safety cover toggle switch or sth)
+- [ ] *trackball core* with PMW3360 sensor
+- [ ] *trackpad core* with a 40mm GlidePoint Cirque Trackpad
+- [ ] *oled core* with a large (colored?) OLED screen
+- [ ] *tht core* with a window and THT components (lumberjack-style), if remotely possible
+- [ ] *rgb core* with a window and a rgb matrix
+
+### case
+- [ ] *brick core* with brick plate on top
 
 ## misc
 
-> Why did you call it barnacle?
+> Why is it called barnacle?
 
 I thought of hermit crabs when I was thinking of similiarities in nature. I stuck with the crab theme, but changed the name to barnacle, because it's a fun word to say out loud.
 
 ## acknowledgements
 
-Thanks for reading and feel free to reach out to me or create PRs if you have any questions or ideas.
+Thanks for reading and feel free to reach out to me or create PRs if you have any questions or things to improve upon
