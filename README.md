@@ -24,11 +24,9 @@ The main layout is fixed but the cores offer some variety.
 
 ## pcb
 
-ba ba ba barnacle (drg) around screw holes (like oldman did on his endgame)
-
 ### core pcb
 
-You can use any core pcbs with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
+You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
 
 #### basic core
 
@@ -51,13 +49,7 @@ This key offers the following configurations:
 - 5 degree typing angle
 - designed for 3d printing
 - sandwich mount
-
-There are a couple of core pieces
-
-- blank core
-- 3x3 core
-- large encoder core
-- oled core
+- exchangable core pieces
 
 ## bom and assembly
 
