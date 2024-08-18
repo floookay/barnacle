@@ -24,6 +24,8 @@ The main layout is fixed but the cores offer some variety.
 
 ## pcb
 
+This keyboard uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins.
+
 ### core pcb
 
 You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
@@ -51,6 +53,10 @@ This key offers the following configurations:
 - sandwich mount
 - exchangable core pieces
 
+## firmware
+
+This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keyboards/barnacle>
+
 ## bom and assembly
 
 For the bill of materials and assembly instructions see [here](./assembly.md).
@@ -63,7 +69,7 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 - [ ] *trackball core* with PMW3360 sensor
 - [ ] *trackpad core* with a 40mm GlidePoint Cirque Trackpad
 - [ ] *oled core* with a large (colored?) OLED screen
-- [ ] *tht core* with a window and THT components (lumberjack-style), if remotely possible
+- [ ] *lumberjack core* with a window and an integrated controller
 - [ ] *rgb core* with a window and a rgb matrix
 
 ### case
