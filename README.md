@@ -6,7 +6,7 @@ The barnacle is unibody ortho keyboard with an Alice-like split on the pinky col
 
 The Boardrun series was my main inspiration for this project obviously. I desperately wanted to get an acrylic frosted purple Boardrun classic but things happend so that's not likely anymore unfortunatelly.
 
-The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I exclusively switched to non-rowstagger keyboards like 3 years ago and realized that I own a lot of beautiful keycaps that I love but can't use because of these weird non-symmetrical larger-than-1.5u mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
+The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I exclusively switched to non-rowstagger keyboards a couple of years ago and realized that I own a lot of beautiful keycaps that I love but can't use because of these weird non-symmetrical larger-than-1.5u mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
 So I've set out to create my own: the barnacle
 
 ## design goals
@@ -14,25 +14,27 @@ So I've set out to create my own: the barnacle
 - 5x6 unibody ortho keyboard
 - base kit compatibility
 - 3d printable on 220mm build plates
-- symmetric design (amap)
+- symmetric design (AMAP)
 - outer thumb keys next to space bars
 - easily expandable later on
+- minimize stabilizer use
 
 ## layout
 
-The main layout is fixed but the cores offer some variety.
+The main layout is fixed but the cores offer some variety. This is based on my Sol keymap but you can modify it in QMK of course.
+![layout](./images/layout.png)
 
 ## pcb
 
-This keyboard uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins.
+This keyboard uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
 
 ### core pcb
 
-You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheep to get a small batch made.
+You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheap to get a small batch made.
 
 #### basic core
 
-This key offers the following configurations:
+This core offers the following configurations:
 - 9 keys
 - 3 keys and a encoder with a big knob
 - 3 keys and a 0.96" OLED screen
@@ -73,7 +75,9 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 - [ ] *rgb core* with a window and a rgb matrix
 
 ### case
+
 - [ ] *brick core* with brick plate on top
+- [ ] *wood core* with a cutout wooden window piece
 
 ## misc
 
