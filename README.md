@@ -22,11 +22,17 @@ So I've set out to create my own: the barnacle
 ## layout
 
 The main layout is fixed but the cores offer some variety. This is based on my Sol keymap but you can modify it in QMK of course.
+<details>
+<summary>layout</summary>
+
 ![layout](./images/layout.png)
+</details>
 
 ## pcb
 
 This keyboard uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
+
+The pcbs where designed with KiCAD 8.0
 
 ### core pcb
 
@@ -55,6 +61,8 @@ This core offers the following configurations:
 - sandwich mount
 - exchangable core pieces
 
+The case was designed with FreeCAD 0.21.2
+
 ## firmware
 
 This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keyboards/barnacle>
@@ -63,7 +71,7 @@ This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keybo
 
 For the bill of materials and assembly instructions see [here](./assembly.md).
 
-## ideas and stuff I'd like to add in the future
+## ideas and/or stuff I'd like to add in the future
 
 ### pcb
 
@@ -73,11 +81,21 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 - [ ] *oled core* with a large (colored?) OLED screen
 - [ ] *lumberjack core* with a window and an integrated controller
 - [ ] *rgb core* with a window and a rgb matrix
+- [ ] *audio core* with a speaker/beeper
 
 ### case
 
 - [ ] *brick core* with brick plate on top
 - [ ] *wood core* with a cutout wooden window piece
+- [ ] *gridfinity core* with a spot for a gridfinity bin
+- [ ] *phone core* with a holder for (small) phones, maybe with a magsafe charger
+- [ ] *change core* with a tray for coins and stuff
+- [ ] *pen core* with a hole that fits a pen
+
+### firmware
+
+- [ ] *ZMK support* with the bluetooth core
+- [ ] *vial and/or via support* once merged to main branch
 
 ## misc
 
@@ -87,4 +105,6 @@ I thought of hermit crabs when I was thinking of similiarities in nature. I stuc
 
 ## acknowledgements
 
-Thanks for reading and feel free to reach out to me or create PRs if you have any questions or things to improve upon
+Huge thank you to ebastler and MarvFPV for the awesome [marbastlib](https://github.com/ebastler/marbastlib) library for KiCAD.
+
+Thanks for reading and feel free to reach out to me or create PRs if you have any questions or things to improve upon.

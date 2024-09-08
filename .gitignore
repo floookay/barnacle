@@ -34,3 +34,6 @@ pcb/*/*/*backups/*
 
 # Discarded stuff
 .discard/*
+
+# symlinks
+qmk_barnacle
