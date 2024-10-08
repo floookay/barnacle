@@ -35,5 +35,8 @@ pcb/*/*/*backups/*
 # Discarded stuff
 .discard/*
 
+# custom graphics (personal use, no license)
+case/user graphics/*
+
 # symlinks
 qmk_barnacle
