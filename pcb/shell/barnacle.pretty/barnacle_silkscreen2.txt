@@ -1,0 +1,3 @@
+credit=https://www.flickr.com/photos/internetarchivebookimages/20810151025/in/photostream/
+converted to a tile with this great tool=https://www.laurentvw.com/tools/seamless-pattern-generator/
+edited with GIMP

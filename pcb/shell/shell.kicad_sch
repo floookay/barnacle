@@ -599,7 +599,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 				(at 1.27 -7.62 0)
 				(effects
 					(font
@@ -1172,7 +1172,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+			(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7284,7 +7284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 91.44 129.54 0)
 			(effects
 				(font
@@ -7352,7 +7352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 256.54 78.74 0)
 			(effects
 				(font
@@ -7492,7 +7492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 180.34 195.58 0)
 			(effects
 				(font
@@ -7708,7 +7708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 205.74 104.14 0)
 			(effects
 				(font
@@ -7848,7 +7848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 88.9 195.58 0)
 			(effects
 				(font
@@ -7924,7 +7924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 78.74 129.54 0)
 			(effects
 				(font
@@ -8065,7 +8065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 53.34 53.34 0)
 			(effects
 				(font
@@ -8135,7 +8135,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 246.38 34.29 0)
 			(effects
 				(font
@@ -8223,7 +8223,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 68.58 59.69 0)
 			(effects
 				(font
@@ -8311,7 +8311,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 246.38 110.49 0)
 			(effects
 				(font
@@ -8461,7 +8461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 256.54 104.14 0)
 			(effects
 				(font
@@ -8529,7 +8529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 205.74 129.54 0)
 			(effects
 				(font
@@ -8599,7 +8599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 68.58 34.29 0)
 			(effects
 				(font
@@ -8687,7 +8687,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 271.78 110.49 0)
 			(effects
 				(font
@@ -8913,7 +8913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 231.14 27.94 0)
 			(effects
 				(font
@@ -8981,7 +8981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 231.14 104.14 0)
 			(effects
 				(font
@@ -9048,7 +9048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 134.62 195.58 0)
 			(effects
 				(font
@@ -9124,7 +9124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 193.04 27.94 0)
 			(effects
 				(font
@@ -9192,7 +9192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 91.44 53.34 0)
 			(effects
 				(font
@@ -9262,7 +9262,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 93.98 110.49 0)
 			(effects
 				(font
@@ -9348,7 +9348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 53.34 129.54 0)
 			(effects
 				(font
@@ -9491,7 +9491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 43.18 110.49 0)
 			(effects
 				(font
@@ -9579,7 +9579,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 246.38 135.89 0)
 			(effects
 				(font
@@ -9667,7 +9667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 195.58 85.09 0)
 			(effects
 				(font
@@ -9753,7 +9753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 27.94 27.94 0)
 			(effects
 				(font
@@ -9821,7 +9821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 40.64 53.34 0)
 			(effects
 				(font
@@ -9891,7 +9891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 30.48 110.49 0)
 			(effects
 				(font
@@ -9979,7 +9979,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 55.88 110.49 0)
 			(effects
 				(font
@@ -10065,7 +10065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 218.44 53.34 0)
 			(effects
 				(font
@@ -10133,7 +10133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 218.44 129.54 0)
 			(effects
 				(font
@@ -10203,7 +10203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 208.28 85.09 0)
 			(effects
 				(font
@@ -10289,7 +10289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 53.34 104.14 0)
 			(effects
 				(font
@@ -10430,7 +10430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 193.04 78.74 0)
 			(effects
 				(font
@@ -10497,7 +10497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 149.86 195.58 0)
 			(effects
 				(font
@@ -10573,7 +10573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 243.84 27.94 0)
 			(effects
 				(font
@@ -10640,7 +10640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 153.67 218.44 0)
 			(effects
 				(font
@@ -10782,7 +10782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 226.06 195.58 0)
 			(effects
 				(font
@@ -10957,7 +10957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 208.28 110.49 0)
 			(effects
 				(font
@@ -11042,7 +11042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 210.82 195.58 0)
 			(effects
 				(font
@@ -11117,7 +11117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 58.42 195.58 0)
 			(effects
 				(font
@@ -11193,7 +11193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 40.64 27.94 0)
 			(effects
 				(font
@@ -11328,7 +11328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 40.64 104.14 0)
 			(effects
 				(font
@@ -11396,7 +11396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 27.94 78.74 0)
 			(effects
 				(font
@@ -11466,7 +11466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 259.08 34.29 0)
 			(effects
 				(font
@@ -11552,7 +11552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 269.24 104.14 0)
 			(effects
 				(font
@@ -11695,7 +11695,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 195.58 34.29 0)
 			(effects
 				(font
@@ -11783,7 +11783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 68.58 85.09 0)
 			(effects
 				(font
@@ -11941,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 88.9 218.44 0)
 			(effects
 				(font
@@ -12090,7 +12090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 231.14 129.54 0)
 			(effects
 				(font
@@ -12160,7 +12160,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 246.38 85.09 0)
 			(effects
 				(font
@@ -12248,7 +12248,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 85.09 0)
 			(effects
 				(font
@@ -12334,7 +12334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 53.34 78.74 0)
 			(effects
 				(font
@@ -12477,7 +12477,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 220.98 85.09 0)
 			(effects
 				(font
@@ -12632,7 +12632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 220.98 59.69 0)
 			(effects
 				(font
@@ -12961,7 +12961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 256.54 129.54 0)
 			(effects
 				(font
@@ -13031,7 +13031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 68.58 135.89 0)
 			(effects
 				(font
@@ -13116,7 +13116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 58.42 218.44 0)
 			(effects
 				(font
@@ -13267,7 +13267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 43.18 59.69 0)
 			(effects
 				(font
@@ -13416,7 +13416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 153.67 172.72 0)
 			(effects
 				(font
@@ -13492,7 +13492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 66.04 104.14 0)
 			(effects
 				(font
@@ -13559,7 +13559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 73.66 195.58 0)
 			(effects
 				(font
@@ -13635,7 +13635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 218.44 78.74 0)
 			(effects
 				(font
@@ -13703,7 +13703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -13773,7 +13773,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 93.98 34.29 0)
 			(effects
 				(font
@@ -13861,7 +13861,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 233.68 34.29 0)
 			(effects
 				(font
@@ -14095,7 +14095,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 233.68 59.69 0)
 			(effects
 				(font
@@ -14327,7 +14327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 53.34 27.94 0)
 			(effects
 				(font
@@ -14613,7 +14613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 123.19 218.44 0)
 			(effects
 				(font
@@ -14691,7 +14691,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 68.58 110.49 0)
 			(effects
 				(font
@@ -14776,7 +14776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 168.91 172.72 0)
 			(effects
 				(font
@@ -14854,7 +14854,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 93.98 59.69 0)
 			(effects
 				(font
@@ -14942,7 +14942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 34.29 0)
 			(effects
 				(font
@@ -15095,7 +15095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 40.64 129.54 0)
 			(effects
 				(font
@@ -15455,7 +15455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 205.74 78.74 0)
 			(effects
 				(font
@@ -15525,7 +15525,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 220.98 110.49 0)
 			(effects
 				(font
@@ -15613,7 +15613,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 55.88 135.89 0)
 			(effects
 				(font
@@ -15701,7 +15701,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 30.48 59.69 0)
 			(effects
 				(font
@@ -15859,7 +15859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 88.9 172.72 0)
 			(effects
 				(font
@@ -15937,7 +15937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 208.28 34.29 0)
 			(effects
 				(font
@@ -16169,7 +16169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 193.04 104.14 0)
 			(effects
 				(font
@@ -16303,7 +16303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 110.49 0)
 			(effects
 				(font
@@ -16389,7 +16389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 91.44 104.14 0)
 			(effects
 				(font
@@ -16459,7 +16459,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 55.88 34.29 0)
 			(effects
 				(font
@@ -16545,7 +16545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 243.84 129.54 0)
 			(effects
 				(font
@@ -16761,7 +16761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 208.28 135.89 0)
 			(effects
 				(font
@@ -16849,7 +16849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 30.48 135.89 0)
 			(effects
 				(font
@@ -17221,7 +17221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 231.14 78.74 0)
 			(effects
 				(font
@@ -17364,7 +17364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 93.98 135.89 0)
 			(effects
 				(font
@@ -17450,7 +17450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 256.54 53.34 0)
 			(effects
 				(font
@@ -17520,7 +17520,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 233.68 85.09 0)
 			(effects
 				(font
@@ -17679,7 +17679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 27.94 129.54 0)
 			(effects
 				(font
@@ -17895,7 +17895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 259.08 59.69 0)
 			(effects
 				(font
@@ -18054,7 +18054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 243.84 78.74 0)
 			(effects
 				(font
@@ -18124,7 +18124,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 195.58 110.49 0)
 			(effects
 				(font
@@ -18210,7 +18210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -18345,7 +18345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 205.74 27.94 0)
 			(effects
 				(font
@@ -18415,7 +18415,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 259.08 135.89 0)
 			(effects
 				(font
@@ -18503,7 +18503,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 93.98 85.09 0)
 			(effects
 				(font
@@ -18589,7 +18589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 78.74 53.34 0)
 			(effects
 				(font
@@ -18659,7 +18659,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 246.38 59.69 0)
 			(effects
 				(font
@@ -18744,7 +18744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 195.58 195.58 0)
 			(effects
 				(font
@@ -18819,7 +18819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 104.14 195.58 0)
 			(effects
 				(font
@@ -19105,7 +19105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 218.44 27.94 0)
 			(effects
 				(font
@@ -19175,7 +19175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 233.68 110.49 0)
 			(effects
 				(font
@@ -19261,7 +19261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 27.94 104.14 0)
 			(effects
 				(font
@@ -19402,7 +19402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 256.54 27.94 0)
 			(effects
 				(font
@@ -19472,7 +19472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 195.58 135.89 0)
 			(effects
 				(font
@@ -19624,7 +19624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 104.14 172.72 0)
 			(effects
 				(font
@@ -19773,7 +19773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 243.84 104.14 0)
 			(effects
 				(font
@@ -19841,7 +19841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 78.74 27.94 0)
 			(effects
 				(font
@@ -19909,7 +19909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 91.44 27.94 0)
 			(effects
 				(font
@@ -19976,7 +19976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 119.38 195.58 0)
 			(effects
 				(font
@@ -20346,7 +20346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 220.98 34.29 0)
 			(effects
 				(font
@@ -20644,7 +20644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 195.58 59.69 0)
 			(effects
 				(font
@@ -20732,7 +20732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 259.08 110.49 0)
 			(effects
 				(font
@@ -20890,7 +20890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 168.91 218.44 0)
 			(effects
 				(font
@@ -20965,7 +20965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 73.66 172.72 0)
 			(effects
 				(font
@@ -21114,7 +21114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 40.64 78.74 0)
 			(effects
 				(font
@@ -21250,7 +21250,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 55.88 85.09 0)
 			(effects
 				(font
@@ -21336,7 +21336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 193.04 53.34 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 73.66 218.44 0)
 			(effects
 				(font
@@ -21552,7 +21552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 218.44 104.14 0)
 			(effects
 				(font
@@ -21620,7 +21620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 193.04 129.54 0)
 			(effects
 				(font
@@ -21763,7 +21763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 208.28 59.69 0)
 			(effects
 				(font
@@ -21997,7 +21997,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 43.18 135.89 0)
 			(effects
 				(font
@@ -22083,7 +22083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 243.84 53.34 0)
 			(effects
 				(font
@@ -22153,7 +22153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 43.18 85.09 0)
 			(effects
 				(font
@@ -22314,7 +22314,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 220.98 135.89 0)
 			(effects
 				(font
@@ -22399,7 +22399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 58.42 172.72 0)
 			(effects
 				(font
@@ -22547,7 +22547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 138.43 172.72 0)
 			(effects
 				(font
@@ -22623,7 +22623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 66.04 53.34 0)
 			(effects
 				(font
@@ -22758,7 +22758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 27.94 53.34 0)
 			(effects
 				(font
@@ -22826,7 +22826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 231.14 53.34 0)
 			(effects
 				(font
@@ -22969,7 +22969,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 59.69 0)
 			(effects
 				(font
@@ -23057,7 +23057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 135.89 0)
 			(effects
 				(font
@@ -23142,7 +23142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 119.38 172.72 0)
 			(effects
 				(font
@@ -23284,7 +23284,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 30.48 34.29 0)
 			(effects
 				(font
@@ -23370,7 +23370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 66.04 78.74 0)
 			(effects
 				(font
@@ -23501,7 +23501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 165.1 195.58 0)
 			(effects
 				(font
@@ -23579,7 +23579,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 259.08 85.09 0)
 			(effects
 				(font
@@ -23665,7 +23665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 205.74 53.34 0)
 			(effects
 				(font
@@ -23733,7 +23733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 78.74 104.14 0)
 			(effects
 				(font
@@ -23803,7 +23803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 30.48 85.09 0)
 			(effects
 				(font
@@ -23891,7 +23891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 233.68 135.89 0)
 			(effects
 				(font
@@ -23976,7 +23976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 107.95 218.44 0)
 			(effects
 				(font
@@ -24054,7 +24054,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 43.18 34.29 0)
 			(effects
 				(font
@@ -24142,7 +24142,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 55.88 59.69 0)
 			(effects
 				(font
@@ -24301,7 +24301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -24369,7 +24369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
 			(at 66.04 27.94 0)
 			(effects
 				(font
@@ -24436,7 +24436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
 			(at 138.43 218.44 0)
 			(effects
 				(font
