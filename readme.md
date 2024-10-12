@@ -4,7 +4,7 @@ The barnacle is unibody ortho keyboard with an Alice-like split on the pinky col
 
 ## inspiration + backstory
 
-The Boardrun series was my main inspiration for this project obviously. I desperately wanted to get an acrylic frosted purple Boardrun classic but things happend so that's not likely anymore unfortunatelly.
+The boardrun series was my main inspiration for this project obviously. I desperately wanted to get an acrylic frosted purple boardrun classic but things happend so that's not likely anymore unfortunatelly.
 
 The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I exclusively switched to non-rowstagger keyboards a couple of years ago and realized that I own a lot of beautiful keycaps that I love but can't use because of these weird non-symmetrical larger-than-1.5u mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
 So I've set out to create my own: the barnacle
@@ -45,7 +45,7 @@ The pcbs where designed with KiCAD 8.0
 
 You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheap to get a small batch made.
 
-#### basic core
+#### versatile core
 
 This core offers the following configurations:
 - 9 keys
@@ -53,6 +53,26 @@ This core offers the following configurations:
 - 3 keys and a 0.96"/1.3" OLED screen
 - 2 small encoders, 1 key and a 0.96" OLED screen
 - a central encoder with the biggest knob
+
+#### encoder core
+
+This core has three top keys and a encoder beneath like the versatile core with the edition of hot swap sockets.
+
+#### special core
+
+This core exposes I2C and SPI pins and has a large cutout for mounting a trackball, trackpad or large oled to the core case (WIP).
+
+#### numblock core
+
+This core has a 3x3 grid of keys like the versatile core but with hot swap sockets.
+
+#### tiny core
+
+This core has centered 2x2 grid of keys with hot swap sockets.
+
+#### oled core
+
+This core has various positions for oled screens.
 
 ### shell pcb
 
@@ -83,9 +103,9 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 ### pcb
 
 - [ ] **bluetooth core** with a nice!nano and without RGB (maybe with a safety cover toggle switch or sth)
-- [ ] **trackball core** with PMW3360 sensor
-- [ ] **trackpad core** with a 40mm GlidePoint Cirque Trackpad
-- [ ] **oled core** with a large (colored?) OLED screen
+- [x] **trackball core** with PMW3360 sensor
+- [x] **trackpad core** with a 40mm GlidePoint Cirque Trackpad
+- [x] **oled core** with a large (colored?) OLED screen
 - [ ] **lumberjack core** with a window and an integrated controller
 - [ ] **rgb core** with a window and a rgb matrix
 - [ ] **audio core** with a speaker/beeper
@@ -107,12 +127,6 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 ### other
 
 I'd love to do a 40% version at some point but that would be a complete rework. Maybe someday in the future.
-
-## misc
-
-> Why is it called barnacle?
-
-I thought of hermit crabs when I was thinking of similiarities in nature. I stuck with the crab theme, but changed the name to barnacle, because it's a fun word to say out loud. Bha bha barnacle!
 
 ## acknowledgements
 
