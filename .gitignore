@@ -38,5 +38,8 @@ pcb/*/*/*backups/*
 # custom graphics (personal use, no license)
 case/user graphics/*
 
+# files where i cheated
+*pfusch.3mf
+
 # symlinks
 qmk_barnacle
