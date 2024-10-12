@@ -3170,22 +3170,22 @@
 	)
 	(global_label "vccrgb"
 		(shape input)
-		(at 187.96 60.96 0)
+		(at 180.34 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "245dc807-8031-45bf-95d1-7e67772230f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 197.1742 60.96 0)
+			(at 171.1258 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3786,22 +3786,22 @@
 	)
 	(global_label "rgb"
 		(shape input)
-		(at 76.2 55.88 180)
+		(at 83.82 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "8876a24c-7ca1-47e0-b407-5f84cb119fd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.1306 55.88 0)
+			(at 89.8894 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4604,7 +4604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 130.81 175.26 0)
 			(effects
 				(font
@@ -4829,7 +4829,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 138.43 0)
 			(effects
 				(font
@@ -5159,7 +5159,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 100.33 138.43 0)
 			(effects
 				(font
@@ -5247,7 +5247,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 62.23 138.43 0)
 			(effects
 				(font
@@ -5402,7 +5402,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 100.33 175.26 0)
 			(effects
 				(font
@@ -5490,7 +5490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 113.03 0)
 			(effects
 				(font
@@ -5552,7 +5552,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_3_Open")
-		(at 80.01 55.88 270)
+		(at 80.01 55.88 90)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5561,7 +5561,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a78e2e8-553e-416c-a39d-03fa71cf9e6e")
 		(property "Reference" "JP3"
-			(at 82.55 54.6099 90)
+			(at 77.47 54.6099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5570,7 +5570,7 @@
 			)
 		)
 		(property "Value" "Jumper_3_Open"
-			(at 82.55 57.1499 90)
+			(at 77.47 57.1499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5718,7 +5718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 81.28 175.26 0)
 			(effects
 				(font
@@ -6017,7 +6017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 100.33 113.03 0)
 			(effects
 				(font
@@ -7100,7 +7100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 62.23 175.26 0)
 			(effects
 				(font
@@ -7188,7 +7188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "barnacle:D_SOD-123-minimal"
 			(at 62.23 113.03 0)
 			(effects
 				(font
@@ -7826,7 +7826,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_3_Open")
-		(at 184.15 60.96 90)
+		(at 184.15 60.96 270)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7835,7 +7835,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc7b02e6-8b62-4ffe-9781-722e04a65ea2")
 		(property "Reference" "JP4"
-			(at 181.61 59.6899 90)
+			(at 186.69 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7844,7 +7844,7 @@
 			)
 		)
 		(property "Value" "Jumper_3_Open"
-			(at 181.61 62.2299 90)
+			(at 186.69 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)

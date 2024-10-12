@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "barnacle")(type "KiCad")(uri "/home/flo/Repositories/keyboards/barnacle/pcb/shell/barnacle.pretty")(options "")(descr ""))
+)
