@@ -599,7 +599,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+			(property "Footprint" "barnacle:LED_SK6812-combi"
 				(at 1.27 -7.62 0)
 				(effects
 					(font
@@ -7492,7 +7492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 180.34 195.58 0)
 			(effects
 				(font
@@ -7848,7 +7848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 88.9 195.58 0)
 			(effects
 				(font
@@ -9048,7 +9048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 134.62 195.58 0)
 			(effects
 				(font
@@ -10497,7 +10497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 149.86 195.58 0)
 			(effects
 				(font
@@ -10640,7 +10640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 153.67 218.44 0)
 			(effects
 				(font
@@ -10782,7 +10782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 226.06 195.58 0)
 			(effects
 				(font
@@ -11042,7 +11042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 210.82 195.58 0)
 			(effects
 				(font
@@ -11117,7 +11117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 58.42 195.58 0)
 			(effects
 				(font
@@ -11941,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 88.9 218.44 0)
 			(effects
 				(font
@@ -13116,7 +13116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 58.42 218.44 0)
 			(effects
 				(font
@@ -13416,7 +13416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 153.67 172.72 0)
 			(effects
 				(font
@@ -13559,7 +13559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 73.66 195.58 0)
 			(effects
 				(font
@@ -14613,7 +14613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 123.19 218.44 0)
 			(effects
 				(font
@@ -14776,7 +14776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 168.91 172.72 0)
 			(effects
 				(font
@@ -15859,7 +15859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 88.9 172.72 0)
 			(effects
 				(font
@@ -18744,7 +18744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 195.58 195.58 0)
 			(effects
 				(font
@@ -18819,7 +18819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 104.14 195.58 0)
 			(effects
 				(font
@@ -19624,7 +19624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 104.14 172.72 0)
 			(effects
 				(font
@@ -19976,7 +19976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 119.38 195.58 0)
 			(effects
 				(font
@@ -20890,7 +20890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 168.91 218.44 0)
 			(effects
 				(font
@@ -20965,7 +20965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 73.66 172.72 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 73.66 218.44 0)
 			(effects
 				(font
@@ -22399,7 +22399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 58.42 172.72 0)
 			(effects
 				(font
@@ -22547,7 +22547,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 138.43 172.72 0)
 			(effects
 				(font
@@ -23142,7 +23142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 119.38 172.72 0)
 			(effects
 				(font
@@ -23501,7 +23501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 165.1 195.58 0)
 			(effects
 				(font
@@ -23976,7 +23976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 107.95 218.44 0)
 			(effects
 				(font
@@ -24436,7 +24436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barnacle:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm-minimal"
+		(property "Footprint" "barnacle:LED_SK6812-combi"
 			(at 138.43 218.44 0)
 			(effects
 				(font
