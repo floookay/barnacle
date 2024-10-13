@@ -66,7 +66,7 @@ This core exposes I2C and SPI pins and has a large cutout for mounting a trackba
 
 This core has a 3x3 grid of keys like the versatile core but with hot swap sockets.
 
-#### tiny core
+#### cute core
 
 This core has centered 2x2 grid of keys with hot swap sockets.
 
