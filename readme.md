@@ -37,48 +37,14 @@ Some 40s kits have accent colored R3 1.75u keys so thats something you could loo
 
 ## pcb
 
-This keyboard uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
+The barnacle uses a two part pcb design that are connected via hotswap sockets:  
+- shell pcb
+- core pcb in different variations
 
-The pcbs where designed with KiCAD 8.0
+It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
 
-### core pcb
-
-You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheap to get a small batch made.
-
-#### versatile core
-
-This core offers the following configurations:
-- 9 keys
-- 3 keys and a encoder with a big knob
-- 3 keys and a 0.96"/1.3" OLED screen
-- 2 small encoders, 1 key and a 0.96" OLED screen
-- a central encoder with the biggest knob
-
-#### encoder core
-
-This core has three top keys and a encoder beneath like the versatile core with the edition of hot swap sockets.
-
-#### special core
-
-This core exposes I2C and SPI pins and has a large cutout for mounting a trackball, trackpad or large oled to the core case (WIP).
-
-#### numblock core
-
-This core has a 3x3 grid of keys like the versatile core but with hot swap sockets.
-
-#### cute core
-
-This core has centered 2x2 grid of keys with hot swap sockets.
-
-#### oled core
-
-This core has various positions for oled screens.
-
-### shell pcb
-
-- fixed layout, so I chose hotswap sockets
-- rgb underglow
-- per key rgb
+> [!NOTE]
+> See [PCB readme](./pcb/readme.md) for detailed information about the pcbs.
 
 ## case
 
@@ -88,7 +54,7 @@ This core has various positions for oled screens.
 - sandwich mount
 - exchangable core pieces
 
-The case was designed with FreeCAD 0.21.2
+The case files were designed with FreeCAD 0.21.2
 
 ## firmware
 
