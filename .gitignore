@@ -15,6 +15,7 @@ _autosave-*
 fp-info-cache
 pcb/*/*backups/*
 pcb/*/*/*backups/*
+pcb/*/*/*/*backups/*
 
 # Netlist files (exported from Eeschema)
 *.net

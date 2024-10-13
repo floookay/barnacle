@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D5, D6, D8, D9",D_SOD-123-minimal,4,D,
+"J1, J2",PinHeader_1x11_P2.54mm_Vertical,2,Conn_01x11,
+"SW5, SW6, SW8, SW9",SW_MX_HS_S_CPG151101S11_1u,4,SW_Push_45deg,

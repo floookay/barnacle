@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D2, D3, D4",D_SOD-123-minimal,5,D,
+"J1, J2",PinHeader_1x11_P2.54mm_Vertical,2,Conn_01x11,
+"SW1, SW3",SW_MX_HS_S_CPG151101S11_1u,2,SW_Push_45deg,
+"SW11, SW4, SW5",ROT_Alps_EC11E-Switch,3,RotaryEncoder_Switch,
+SW2,SW_MX_1u,1,SW_Push_45deg,
