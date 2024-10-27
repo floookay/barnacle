@@ -23,7 +23,7 @@ do
                         new_rotation=$(awk "BEGIN {print $new_rotation - 360}")
                     fi
                     new_rotation="$new_rotation.0"
-                    echo "$rotation -> $new_rotation"
+                    echo "$led: $rotation -> $new_rotation"
                 fi
                 echo "$designator,$midx,$midy,$new_rotation,$layer" >> "$tmp_file"
 
