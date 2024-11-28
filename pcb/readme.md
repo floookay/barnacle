@@ -2,17 +2,29 @@
 
 ## shell pcb
 
-- fixed layout, so I chose hotswap sockets
-- rgb underglow
-- per key rgb
+The shell has a fixed layout with hotswap sockets as well as RGB underglow und per key RBG leds (**per key is not tested yet**).
+
+top view  
+![shell top](./../images/pcb_shell_top.webp)
+
+bottom view  
+![shell bottom](./../images/pcb_shell_bottom.webp)
+
 
 ## core pcb
 
 You can use any core pcb with a shell. They are smaller than 100mmx100mm so it's relativly cheap to get a small batch made.
 
+> [!NOTE]
+> Every core has two jumpers at the top next to the controller. If you want to use RGB leds you will have to bridge either the left or right pads each.
+> - Left jumper pad for the input pin: left (marked) for the Helios' pin 25, right for other controllers (D1)
+> - Right jumper pad for the power source: left (marked) for raw/5V, right for 3.3V
+
 ### versatile core
 
 This is a great starting point if you want to experiment with different layouts and don't care too much about hot swap ability.
+
+![versatile core](./../images/pcb_core_versatile.webp)
 
 The following configurations are supported:
 - 9 keys
@@ -23,20 +35,28 @@ The following configurations are supported:
 
 ### encoder core
 
-This core has three top keys and a encoder beneath like the versatile core with hot swap sockets.
+This core has three top keys and a encoder beneath like the versatile core but with hot swap sockets.
+
+![encoder core](./../images/pcb_core_encoder.webp)
 
 ### special core
 
 This core exposes I2C and SPI pins and has a large cutout for mounting a trackball, trackpad or large oled to the core case (WIP).
 
+![special core](./../images/pcb_core_special.webp)
+
 ### numblock core
 
 This core has a 3x3 grid of keys like the versatile core but with hot swap sockets.
+
+![numblock core](./../images/pcb_core_numblock.webp)
 
 ### cute core
 
 This core has centered 2x2 grid of keys with hot swap sockets.
 
-### oled core
+![cute core](./../images/pcb_core_cute.webp)
 
-This core has various positions for oled screens.
+### _template/ directory
+
+The `_template/` directory contains the basic configuration if you want to create your own core.

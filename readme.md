@@ -2,11 +2,11 @@
 
 The barnacle is unibody ortho keyboard with an Alice-like split on the pinky columns and a fixed layout that's compatible with keycap base kits.
 
-## inspiration + backstory
+## inspiration
 
-The boardrun series was my main inspiration for this project obviously. I desperately wanted to get an acrylic frosted purple boardrun classic but things happend so that's not likely anymore unfortunatelly.
+Obviously the boardrun series was my main inspiration for this project. I desperately wanted to get an acrylic frosted purple boardrun classic but things happend so that's not likely anymore unfortunatelly.
 
-The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I exclusively switched to non-rowstagger keyboards a couple of years ago and realized that I own a lot of beautiful keycaps that I love but can't use because of these weird non-symmetrical larger-than-1.5u mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
+The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I switched to ortho/colstagger keyboards a couple of years ago and realized that I own a lot of beautiful keycaps that I love but can't use because I'm missing mod keys of these weird large non-symmetrical mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
 So I've set out to create my own: the barnacle
 
 ## design goals
@@ -14,7 +14,7 @@ So I've set out to create my own: the barnacle
 - 5x6 unibody ortho keyboard
 - base kit compatibility
 - 3d printable on 220mm build plates
-- symmetric design (AMAP)
+- symmetric design (amap)
 - outer thumb keys next to space bars
 - easily expandable later on
 - minimize stabilizer use
@@ -44,7 +44,7 @@ The barnacle uses a two part pcb design that are connected via hotswap sockets:
 It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
 
 > [!NOTE]
-> See [PCB readme](./pcb/readme.md) for detailed information about the pcbs.
+> See [pcb readme](./pcb/readme.md) for detailed information about the pcb design.
 
 ## case
 
@@ -54,11 +54,12 @@ It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its contr
 - sandwich mount
 - exchangable core pieces
 
-The case files were designed with FreeCAD 0.21.2
+> [!NOTE]
+> See [case readme](./case/readme.md) for detailed information about the case design.
 
 ## firmware
 
-This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keyboards/barnacle>
+This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keyboards/barnacle> (not yet in main branch)
 
 ## bom and assembly
 
@@ -71,7 +72,7 @@ For the bill of materials and assembly instructions see [here](./assembly.md).
 - [ ] **bluetooth core** with a nice!nano and without RGB (maybe with a safety cover toggle switch or sth)
 - [x] **trackball core** with PMW3360 sensor
 - [x] **trackpad core** with a 40mm GlidePoint Cirque Trackpad
-- [x] **oled core** with a large (colored?) OLED screen
+- [ ] **oled core** with a large (colored?) OLED screen
 - [ ] **lumberjack core** with a window and an integrated controller
 - [ ] **rgb core** with a window and a rgb matrix
 - [ ] **audio core** with a speaker/beeper
@@ -96,6 +97,6 @@ I'd love to do a 40% version at some point but that would be a complete rework. 
 
 ## acknowledgements
 
-Huge thank you to ebastler and MarvFPV for the awesome [marbastlib](https://github.com/ebastler/marbastlib) library for KiCAD.
+Huge thank you to ebastler and MarvFPV for the awesome [marbastlib](https://github.com/ebastler/marbastlib) library for KiCAD as well as the ClackTales community for their support.
 
 Thanks for reading and feel free to reach out to me or create PRs if you have any questions or things to improve upon.

@@ -44,3 +44,7 @@ case/user graphics/*
 
 # symlinks
 qmk_barnacle
+
+# image uploads
+/images/uploads/*
+!/images/uploads/convert.sh
