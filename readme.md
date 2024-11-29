@@ -25,7 +25,7 @@ The main layout is fixed but the different cores offer some variety. This is bas
 <details>
 <summary>layout</summary>
 
-![layout](./images/layout.png)
+![layout](./images/layout.webp)
 </details>
 
 The layout is pretty much compatible with every base kit. These are the keys you could look out for beforehand as they are sometimes missing:
@@ -63,7 +63,7 @@ This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keybo
 
 ## bom and assembly
 
-For the bill of materials and assembly instructions see [here](./assembly.md).
+For the bill of materials and assembly instructions see [here](./build_guide.md).
 
 ## ideas and/or stuff I'd like to add in the future
 

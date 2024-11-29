@@ -33,6 +33,9 @@ The following configurations are supported:
 - 2 small encoders, 1 key and a 0.96" OLED screen
 - a central encoder with the biggest knob
 
+> [!NOTE]
+> There are two additional jumpers on this pcb. These are used so the GND pad of the encoder isn't connected to a column. If you want to use the adjacent key you'll have to close it.
+
 ### encoder core
 
 This core has three top keys and a encoder beneath like the versatile core but with hot swap sockets.
