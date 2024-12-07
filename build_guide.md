@@ -68,7 +68,7 @@ Depending on your core pcb you might need additional headers, hot swap sockets o
 
 This is important as some components are difficult to reflow later if they are not soldered on properly.
 
-1. Compile the firmware `qmk make barnacle:default` (<https://github.com/floookay/qmk_firmware/keyboards/barnacle>)
+1. Compile the firmware `make barnacle:default` (<https://github.com/floookay/qmk_firmware/keyboards/barnacle>)
 2. Plug in the keyboard, click the reset button on the Helios controller and upload the compiled firmware.
 3. Check that all keys and leds work.
 
