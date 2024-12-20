@@ -6523,7 +6523,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 142.24 185.42 180)
+		(at 142.24 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6533,7 +6533,7 @@
 		)
 		(uuid "72eac3d1-b13e-493b-b65d-a198d76814fa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.6262 185.42 0)
+			(at 135.6262 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7445,7 @@
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SK6812MINI-E")
 		(at 165.1 177.8 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7453,7 +7453,7 @@
 		(dnp no)
 		(uuid "0322e880-3f61-48ab-893e-8e52e24d4266")
 		(property "Reference" "UG21"
-			(at 168.148 181.356 0)
+			(at 162.052 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7461,7 +7461,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 167.64 179.578 0)
+			(at 162.56 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9924,7 +9924,7 @@
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SK6812MINI-E")
 		(at 180.34 177.8 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9932,7 +9932,7 @@
 		(dnp no)
 		(uuid "2d22ba68-ad46-4006-8384-a0db33ca4b3a")
 		(property "Reference" "UG20"
-			(at 183.388 181.356 0)
+			(at 177.292 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9940,7 +9940,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 182.88 179.578 0)
+			(at 177.8 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10518,7 +10518,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 142.24 170.18 270)
+		(at 142.24 185.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10527,7 +10527,7 @@
 		(fields_autoplaced yes)
 		(uuid "376387a6-9dec-4e66-8eae-b6b3735068a5")
 		(property "Reference" "#PWR010"
-			(at 135.89 170.18 0)
+			(at 135.89 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10536,7 +10536,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 138.43 170.1799 90)
+			(at 138.43 185.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10545,7 +10545,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 170.18 0)
+			(at 142.24 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10554,7 +10554,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 170.18 0)
+			(at 142.24 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10563,7 +10563,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 170.18 0)
+			(at 142.24 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17238,7 +17238,7 @@
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SK6812MINI-E")
 		(at 195.58 177.8 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17246,7 +17246,7 @@
 		(dnp no)
 		(uuid "9fe09723-ab3b-477b-80fb-404c79e54e10")
 		(property "Reference" "UG19"
-			(at 198.628 181.356 0)
+			(at 192.532 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17254,7 +17254,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 198.12 179.578 0)
+			(at 193.04 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20514,7 +20514,7 @@
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SK6812MINI-E")
 		(at 149.86 177.8 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20522,7 +20522,7 @@
 		(dnp no)
 		(uuid "d610ba74-7c06-45be-832e-7a4c3b3a283e")
 		(property "Reference" "UG22"
-			(at 152.908 181.356 0)
+			(at 146.812 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20530,7 +20530,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 152.4 179.578 0)
+			(at 147.32 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23849,7 +23849,7 @@
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_SK6812MINI-E")
 		(at 210.82 177.8 0)
-		(mirror x)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23857,7 +23857,7 @@
 		(dnp no)
 		(uuid "fb3b77eb-d594-4f57-8279-fa741885a47e")
 		(property "Reference" "UG18"
-			(at 213.868 181.356 0)
+			(at 207.772 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23865,7 +23865,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 213.36 179.578 0)
+			(at 208.28 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
