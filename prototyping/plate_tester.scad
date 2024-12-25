@@ -1,3 +1,5 @@
+// please note that the plate produced by this file doesn't have the correct spacing on the pinky columns
+
 KEY_UNIT = 19.05;
 KEY_HOLE = 14;
 KEY_SPACING = (KEY_UNIT-KEY_HOLE)/2;
