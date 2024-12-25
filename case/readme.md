@@ -12,18 +12,45 @@ The case files were designed with FreeCAD 0.21.2
 
 You'll have to split the shell piece into two pieces in the slicer at the groove (the bridge should not be printed). It's not important if the cut removes a little bit of material above the groove. This will be hidden later.
 
-The plate is sandwiched in between the shell and fixer pieces. You can customize the spreadsheet in the FreeCAD file if you are having troubles with the tolerances (it's very tight).
+The plate is sandwiched in between the shell and fixer pieces. You can customize the spreadsheet in the FreeCAD file if you are having troubles with the tolerances (it's a tight fit).
 
 ## core
 
-### versatile
+### versatile core
 
-for most top case configurations (for versatile and encoder pcbs)
+This is a great starting point if you want to experiment with different layouts and don't care too much about hot swap ability.
 
-### cute
+The following configurations are supported:
+- 9 keys
+- 3 keys and a encoder with a big knob
+- 3 keys and a 0.96"/1.3" OLED screen
+- 2 small encoders, 1 key and a 0.96" OLED screen
+- a central encoder with the biggest knob
 
-TODO
+I added a couple of printable cores possible with the versatile core pcb but to get
 
-### special
+### encoder core
 
-for trackball or top mounted oled etc. (WIP)
+This core has three top keys and a encoder beneath like the versatile core but with hot swap sockets. Alternatively you can install an encoder on the left and a second one on the right.
+
+![encoder core](./../images/case_core_encoder.webp)
+
+### special core
+
+This core is intended for fun stuff like a trackball or similiar but I haven't worked on that yet.
+
+### cute core
+
+This is just a simple core with 4 centered keys with hot swap.
+
+> [!TIP]
+> You can add text or graphics in the slicer
+
+### wood core
+
+This core is also a work in progress. The plan is to add a wooden window piece.
+
+## printer settings
+
+- 0.4mm nozzle
+- 0.2mm layer height
