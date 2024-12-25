@@ -4,12 +4,7 @@
 
 The shell has a fixed layout with hotswap sockets as well as RGB underglow und per key RBG leds (**per key is not tested yet**).
 
-top view  
-![shell top](./../images/pcb_shell_top.webp)
-
-bottom view  
-![shell bottom](./../images/pcb_shell_bottom.webp)
-
+![shell top](./../images/pcb_shell.webp)
 
 ## core pcb
 
@@ -48,12 +43,6 @@ This core exposes I2C and SPI pins and has a large cutout for mounting a trackba
 
 ![special core](./../images/pcb_core_special.webp)
 
-### numblock core
-
-This core has a 3x3 grid of keys like the versatile core but with hot swap sockets.
-
-![numblock core](./../images/pcb_core_numblock.webp)
-
 ### cute core
 
 This core has centered 2x2 grid of keys with hot swap sockets.
@@ -62,4 +51,4 @@ This core has centered 2x2 grid of keys with hot swap sockets.
 
 ### _template/ directory
 
-The `_template/` directory contains the basic configuration if you want to create your own core.
+The `_template/` directory contains the basic configuration if you want to create your own core pcb.
