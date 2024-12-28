@@ -2,7 +2,7 @@
 
 ## shell pcb
 
-The shell has a fixed layout with hotswap sockets as well as RGB underglow und per key RBG leds (**per key is not tested yet**).
+The shell has a fixed layout with hotswap sockets as well as RGB underglow und per key RBG leds.
 
 ![shell top](./../images/pcb_shell.webp)
 
