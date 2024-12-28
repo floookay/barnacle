@@ -1,13 +1,13 @@
 # barnacle
 
-The barnacle is unibody ortho keyboard with an Alice-like split on the pinky columns and a fixed layout that's compatible with keycap base kits.
+The barnacle is unibody ortho keyboard with an Alice-like split on the pinky columns, a fixed layout that's compatible with keycap base kits and a modular middle piece.
+
+![barnacle](./images/laser_handardbeit_banner.webp)
 
 ## inspiration
 
-Obviously the boardrun series was my main inspiration for this project. I desperately wanted to get an acrylic frosted purple boardrun classic but things happend so that's not likely anymore unfortunatelly.
-
-The creativity of designers with colorful keycap designs and interesting keyboards (like the TGR Alice) got me hooked with the hobby. I switched to ortho/colstagger keyboards a couple of years ago and realized that I own a lot of beautiful keycaps that I love but can't use because I'm missing mod keys of these weird large non-symmetrical mod key sizes per row. Most ergonomic keyboard designs that are trying to solve that issue, I don't find aesthetically pleasing or don't like the layout.  
-So I've set out to create my own: the barnacle
+I love the look of the boardrun classic and desperately wanted to get one myself but things happend so that's not likely anymore unfortunately.  
+The creativity of designers with colorful keycap designs and interesting keyboard designs got me hooked with the hobby. I bought a bunch of keycap sets over the years that I don't use anymore since I switched to ortho/colstagger keyboards a couple of years ago, because the different asymmetrical key sizes of standard keyboards make it difficult. I don't like the layout or the asthetics of most keyboard designs that are trying to work around this issue. That's why I created the barnacle.
 
 ## design goals
 
@@ -17,31 +17,31 @@ So I've set out to create my own: the barnacle
 - symmetric design (amap)
 - outer thumb keys next to space bars
 - easily expandable later on
-- minimize stabilizer use
+- no stabilizers
 
 ## layout
 
-The main layout is fixed but the different cores offer some variety. This is based on my Sol keymap but you can modify it in QMK of course.
-<details>
-<summary>layout</summary>
+The main layout you use to type is fixed but the different cores offer some variety. The default keymap is based on my Sol 3 keymap but you can modify it in QMK of course.
 
 ![layout](./images/layout.webp)
-</details>
 
-The layout is pretty much compatible with every base kit. These are the keys you could look out for beforehand as they are sometimes missing:
+The base layout is pretty much compatible with every base kit. These are the keys you could look out for beforehand as they are sometimes missing:
 - a second R3 1.75u key (capslock/control)
 - if ISO is omitted and the bottom row is another profile than the row above: a 1.25u shift key. If they are the same profile you can use the 7th 1.25u mod key
 - 2u and 2.25u space bars, alternativly you can use shift keys
 
-Some 40s kits have accent colored R3 1.75u keys so thats something you could look out for if you like accent keys.
+> [!TIP]
+> Some 40s kits have accent colored R3 1.75u enter keys so thats something you could look out for if you like accent keys.
 
 ## pcb
 
-The barnacle uses a two part pcb design that are connected via hotswap sockets:  
+The barnacle uses a two part pcb design which are connected via hotswap sockets:  
 - shell pcb
 - core pcb in different variations
 
 It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its controller. It's an affordable open-source pro-micro-compatible RP2040 controller with ESD protection and additional pins and features.
+
+![pcb](./images/pcb_combi.webp)
 
 > [!NOTE]
 > See [pcb readme](./pcb/readme.md) for detailed information about the pcb design.
@@ -54,6 +54,14 @@ It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its contr
 - sandwich mount
 - exchangable core pieces
 
+![bottom](./images/bottom.webp)
+<details>
+<summary>side and back pictures</summary>
+
+![side profile](./images/build_ramses_side.webp)
+![backside](./images/build_oblivion_back.webp)
+</details>
+
 > [!NOTE]
 > See [case readme](./case/readme.md) for detailed information about the case design.
 
@@ -65,38 +73,65 @@ This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/keybo
 
 For the bill of materials and assembly instructions see [here](./build_guide.md).
 
-## ideas and/or stuff I'd like to add in the future
+## pictures
 
-### pcb
+<details>
+<summary>encoder core, SA Ramses, Novelkeys x Kailh Cream, printed with AzureFilm PLA Matte Off-White</summary>
 
-- [ ] **bluetooth core** with a nice!nano and without RGB (maybe with a safety cover toggle switch or sth)
-- [x] **trackball core** with PMW3360 sensor
-- [x] **trackpad core** with a 40mm GlidePoint Cirque Trackpad
-- [ ] **oled core** with a large (colored?) OLED screen
-- [ ] **lumberjack core** with a window and an integrated controller
-- [ ] **rgb core** with a window and a rgb matrix
-- [ ] **audio core** with a speaker/beeper
+![barnacle](./images/build_ramses_mat.webp)  
+![barnacle](./images/build_ramses_shot.webp)  
+![barnacle](./images/build_ramses.webp)  
+</details>
 
-### case
+<details>
+<summary>cute core, DSS Handarbeit, Gateron EF Curry, printed with RecylingFabrik rPLA flaches Gewässer</summary>
 
-- [ ] **brick core** with brick plate on top
-- [ ] **wood core** with a cutout wooden window piece
-- [ ] **gridfinity core** with a spot for a gridfinity bin
-- [ ] **phone core** with a holder for (small) phones, maybe with a magsafe charger
-- [ ] **change core** with a tray for coins and stuff
-- [ ] **pen core** with a hole that fits a pen
+![barnacle](./images/build_handarbeit_desk.webp)  
+![barnacle](./images/build_handarbeit_mat.webp)  
+</details>
 
-### firmware
+<details>
+<summary>versatile core with a 1.3" oled screen, GMK Dracula, Gateron Black Silent Inks, printed with Prusament PLA Galaxy Black</summary>
 
-- [ ] **ZMK support** with the bluetooth core
-- [ ] **vial and/or via support** once merged to main branch
+![barnacle](./images/build_dracula_desk.webp)  
+![barnacle](./images/build_dracula_desk_back.webp)  
+![barnacle](./images/build_dracula_side_underglow.webp)  
+![barnacle](./images/build_dracula_table.webp)  
+</details>
 
-### other
 
-I'd love to do a 40% version at some point but that would be a complete rework. Maybe someday in the future.
+<details>
+<summary>versatile core encoder, MT3 Serika, Trash Linears, printed with Sunlu PLA Black matte</summary>
+
+![barnacle](./images/build_serika.webp)  
+</details>
+
+<details>
+<summary>encoder core, SA Laser, Gateron Black Silent Inks, printed with Polymaker PolyLite PLA Galaxy Dark Blue</summary>
+
+![barnacle](./images/build_laser_desk.webp)  
+![barnacle](./images/build_laser_mat.webp)  
+![barnacle](./images/build_laser_shot.webp)  
+</details>
+
+<details>
+<summary>versatile core, GMK Foundation, MMD Holy Panda, printed with AzureFilm PLA Matte Off-White</summary>
+
+![barnacle](./images/build_foundation_mat.webp)  
+![barnacle](./images/build_foundation_shot.webp)  
+![barnacle](./images/build_foundation.webp)  
+</details>
+
+<details>
+<summary>versatile core numpad, GMK Oblivion, Gateron 8008 Inks, printed with RecylingFabrik rPLA Schimmernde Nacht</summary>
+
+![barnacle](./images/build_oblivion_mat.webp)  
+![barnacle](./images/build_oblivion_back.webp)  
+![barnacle](./images/build_oblivion.webp)  
+</details>
 
 ## acknowledgements
 
 Huge thank you to ebastler and MarvFPV for the awesome [marbastlib](https://github.com/ebastler/marbastlib) library for KiCAD as well as the ClackTales community for their support.
 
-Thanks for reading and feel free to reach out to me or create PRs if you have any questions or things to improve upon.
+Thanks for reading and feel free to reach out to me or create issues or PRs if you have any questions or things to improve upon.

@@ -19,7 +19,7 @@ optional:
 - [ ] 2x stabilizer
 
 > [!NOTE]  
-> The pcb has holes for stabilizers but the plate does not as I use mine without stabilizers. This works great with switches from well-known manufacturers like Gateron.
+> The pcb has holes for stabilizers but the plate does not as I use mine without stabilizers. This works great with switches with good tolerances like Gateron.
 
 ### core pcb
 
@@ -40,6 +40,7 @@ Depending on your core pcb you might need additional headers, hot swap sockets o
 - [ ] 3x M3 5mm screws (on the inside)
 - [ ] 3d printed parts: both shell pieces, both plates, all four plate fixers, core piece
 - [ ] 3mm acrylic bottom plate
+- [ ] 6x 8mm rubber feet
 
 ### additional hardware depending on layout
 
@@ -120,3 +121,4 @@ This is important as some components like the outer columns, pin headers and led
 3. Screw in the three screws in the middle. 2 on the core pcb, 1 on the shell below.
 4. Put in the MX switches. Make sure that the switch legs aren't bent and that they are snapped into the plate. ![assembly switches](./images/assembly_switches.webp)
 5. Screw in the acrylic bottom with the remaining 8 screws.
+6. Add the rubber feet to the acrylic plate.

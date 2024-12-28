@@ -3,7 +3,7 @@
 - 3mm acrylic bottom
 - 5 degree typing angle
 - designed for 3d printing
-- sandwich mount
+- sandwich type mount
 - exchangable core pieces
 
 The case files were designed with FreeCAD 0.21.2
@@ -13,6 +13,11 @@ The case files were designed with FreeCAD 0.21.2
 You'll have to split the shell piece into two pieces in the slicer at the groove (the bridge should not be printed). It's not important if the cut removes a little bit of material above the groove. This will be hidden later.
 
 The plate is sandwiched in between the shell and fixer pieces. You can customize the spreadsheet in the FreeCAD file if you are having troubles with the tolerances (it's a tight fit).
+
+The acrylic bottom connects the 3d printed case parts together.
+
+> [!WARNING]  
+> Please note that the acrylic bottom is not symmetrical! You may want to flip the file if you order the plate with a certain surface finish. The edge on the right side is longer.
 
 ## core
 
