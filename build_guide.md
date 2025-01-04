@@ -97,7 +97,7 @@ still WIP
 
 ### preparing the core pcb
 
-1. If your core supports it and you want to use a switch under the controller please solder the two mill-max sockets under the controller first.
+1. If your core supports it and you want to use a switch under the controller please solder the two mill-max sockets under the controller first. Also remember later to cut the pin header directly beneath the switch flush.
 2. Start soldering the single row headers for the controller. Make sure that they are soldered on straight.
 3. Align the Helios, insert the silver wire, cut it roughly flush and fixate it with solder. Make sure that you don't heat it up too long so you don't get any solder inside in the pin header. 
 4. If you are using RGB leds connect the jumper with the marked or non-marked pad:
