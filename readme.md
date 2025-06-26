@@ -69,6 +69,8 @@ It uses the [0xCB Helios](https://keeb.supply/products/0xcb-helios) as its contr
 
 This keyboard is powered by QMK: <https://github.com/floookay/qmk_firmware/tree/barnacle/keyboards/barnacle> (not yet in main branch)
 
+I also uploaded a firmware for vial as well as the json in the firmware folder.
+
 ## bom and assembly
 
 For the bill of materials and assembly instructions see [here](./build_guide.md).

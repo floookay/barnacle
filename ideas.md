@@ -22,7 +22,7 @@
 ## firmware
 
 - [ ] **ZMK support** with the bluetooth core
-- [ ] **vial and/or via support** once merged to main branch
+- [x] **vial support** with 3x3 core, encoder and rgb support
 
 ## other
 

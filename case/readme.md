@@ -55,6 +55,10 @@ This is just a simple core with 4 centered keys with hot swap.
 
 This core is also a work in progress. The plan is to add a wooden window piece.
 
+## the „weight“
+
+This is a 3d printable weight you can print with 100% infill to dampen the sound and make the build by about 200g heavier. It's not fixated or anything it just sits above the acrylic. You can split it in half for printing on usual sized print beds.
+
 ## printer settings
 
 - 0.4mm nozzle
