@@ -49,6 +49,12 @@ This core has centered 2x2 grid of keys with hot swap sockets.
 
 ![cute core](./../images/pcb_core_cute.webp)
 
+### numpad core
+
+This core has a 3x3 grid of keys with hot swap sockets (when possible) and an additional 0 key that can be snapped off.
+
+![numpad core](./../images/pcb_core_numpad.webp)
+
 ### _template/ directory
 
 The `_template/` directory contains the basic configuration if you want to create your own core pcb.
