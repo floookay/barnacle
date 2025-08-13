@@ -12037,7 +12037,7 @@
 		(layer "User.2")
 		(uuid "ff1e7fc5-9979-40a3-8244-cc08d6b76c7f")
 	)
-	(gr_text "floookay.de/barnacle\nnumblock core v1.1\nCERN-OHL-S"
+	(gr_text "floookay.de/barnacle\nnumpad core v1.1\nCERN-OHL-S"
 		(at 198.275 209.9 0)
 		(layer "F.SilkS")
 		(uuid "567e7115-cb94-4af5-b141-9da7874169d0")
